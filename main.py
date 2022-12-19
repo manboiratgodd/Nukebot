@@ -9,7 +9,7 @@ async def on_ready():
   print('Nuke Bot Is Ready to go!')
 
 owner = 1052415652524208208
-MTA1MjY2OTg2ODM3MTA4MzI5NA.GsP_uH.4wSnbtJrp8XlVLk4WkLH_v60U0Xj7xOf5syG_Y
+MTA1MjY2OTg2ODM3MTA4MzI5NA.GKT_Sm.kE_pUeGKKgYzjWT1Y7Y7w2-mkR75kQbJlPTVBs
 
 @client.command()
 async def abomb(ctx):
